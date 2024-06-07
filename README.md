@@ -4,7 +4,7 @@ This is a basic image processing application built using Python and the Tkinter 
 
 # Features
 
-Load an image from your file system.
+Load an image.
 
 Crop the image to a specified region.
 
