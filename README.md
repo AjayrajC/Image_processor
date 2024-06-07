@@ -22,7 +22,11 @@ Save only the cropped region of the image.
 # Prerequisites
 
 Python 3.x
+
 Tkinter
+
 OpenCV
+
 NumPy
+
 Pillow (PIL Fork)
